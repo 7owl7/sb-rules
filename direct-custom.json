@@ -2,6 +2,6 @@
   "version": 2,
   "rules": [
     { "ip_cidr": ["178.45.0.0/20"] },
-    { "domain_suffix": ["1xbet.com"] }
+    { "domain_suffix": ["2ip.io"] }
   ]
 }
